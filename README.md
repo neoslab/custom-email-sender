@@ -29,6 +29,10 @@ Custom Email Sender allows you to easily customize the default email sender name
 
 ## Changelog
 
+### 2.6.5 (2025-12-29)
+
+- Code revision and optimization
+
 ### 2.6.4 (2025-12-17)
 
 - Code revision and optimization
