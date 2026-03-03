@@ -1,44 +1,22 @@
-# Copyright (C) 2025 NeosLab
-# This file is distributed under the GPL-2.0+.
+# Copyright (C) 2026 Custom Email Sender
+# This file is distributed under the same license as the Custom Email Sender package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Custom Email Sender 2.6.0\n"
+"Project-Id-Version: Custom Email Sender 2.6.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/custom-email-sender\n"
-"Last-Translator: NeosLab <support@neoslab.com>\n"
-"Language-Team: Italiano <LL@li.org>\n"
+"POT-Creation-Date: 2026-03-03 13:12:16+00:00\n"
+"PO-Revision-Date: 2026-03-03 14:00:00+00:00\n"
+"Last-Translator: \n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-10-20T05:39:47+00:00\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.12.0\n"
-"X-Domain: custom-email-sender\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. Plugin Name of the plugin
-#: custom-email-sender.php
 #: admin/class-custom-email-sender-admin.php:74
 msgid "Custom Email Sender"
-msgstr "Mittente email personalizzato"
-
-#. Plugin URI of the plugin
-#: custom-email-sender.php
-msgid "https://wordpress.org/plugins/custom-email-sender/"
-msgstr "https://wordpress.org/plugins/custom-email-sender/"
-
-#. Description of the plugin
-#: custom-email-sender.php
-msgid "Change the default email address and sender name output for all message sent from your WP dashboard."
-msgstr "Modifica l'indirizzo email e il nome del mittente predefiniti per tutti i messaggi inviati dal tuo pannello di WordPress."
-
-#. Author of the plugin
-#: custom-email-sender.php
-msgid "NeosLab"
-msgstr "NeosLab"
-
-#. Author URI of the plugin
-#: custom-email-sender.php
-msgid "https://neoslab.com"
-msgstr "https://neoslab.com"
+msgstr "Custom Email Sender"
 
 #: admin/class-custom-email-sender-admin.php:86
 msgid "Settings"
@@ -46,31 +24,31 @@ msgstr "Impostazioni"
 
 #: admin/partials/custom-email-sender-admin-options.php:4
 msgid "Your settings have been successfully updated."
-msgstr "Le impostazioni sono state aggiornate con successo."
+msgstr "Le tue impostazioni sono state aggiornate con successo."
 
 #: admin/partials/custom-email-sender-admin-options.php:10
 msgid "The email address is not valid !!"
-msgstr "L'indirizzo email non è valido!"
+msgstr "L'indirizzo email non è valido!!"
 
 #: admin/partials/custom-email-sender-admin-options.php:14
 msgid "The sender name is not valid !!"
-msgstr "Il nome del mittente non è valido!"
+msgstr "Il nome del mittente non è valido!!"
 
 #: admin/partials/custom-email-sender-admin-options.php:18
 msgid "An unknown error occured !!"
-msgstr "Si è verificato un errore sconosciuto!"
+msgstr "Si è verificato un errore sconosciuto!!"
 
 #: admin/partials/custom-email-sender-admin-options.php:38
 msgid "You have not set up your sender name and email address ! In order to do so, please use the below form."
-msgstr "Non hai ancora impostato il nome e l'indirizzo email del mittente! Per farlo, utilizza il modulo qui sotto."
+msgstr "Non hai impostato il nome del mittente e l'indirizzo email! Per farlo, utilizza il modulo sottostante."
 
 #: admin/partials/custom-email-sender-admin-options.php:43
 msgid "Your plugin is properly configured ! You can change at anytime your sender name and email address using the below form."
-msgstr "Il plugin è configurato correttamente! Puoi modificare in qualsiasi momento il nome e l'indirizzo email del mittente usando il modulo sottostante."
+msgstr "Il tuo plugin è configurato correttamente! Puoi modificare in qualsiasi momento il nome del mittente e l'indirizzo email utilizzando il modulo sottostante."
 
 #: admin/partials/custom-email-sender-admin-options.php:52
 msgid "Sender Name"
-msgstr "Nome del mittente"
+msgstr "Nome Mittente"
 
 #: admin/partials/custom-email-sender-admin-options.php:53
 msgid "Enter the sender name"
@@ -78,11 +56,11 @@ msgstr "Inserisci il nome del mittente"
 
 #: admin/partials/custom-email-sender-admin-options.php:54
 msgid "Enter the sender name as you want it to appear when email are sent (Min. 3 characters)."
-msgstr "Inserisci il nome del mittente come desideri che appaia nelle email inviate (minimo 3 caratteri)."
+msgstr "Inserisci il nome del mittente come vuoi che appaia quando vengono inviate le email (Min. 3 caratteri)."
 
 #: admin/partials/custom-email-sender-admin-options.php:58
 msgid "Sender Email"
-msgstr "Email del mittente"
+msgstr "Email Mittente"
 
 #: admin/partials/custom-email-sender-admin-options.php:59
 msgid "Enter the email address"
@@ -90,8 +68,24 @@ msgstr "Inserisci l'indirizzo email"
 
 #: admin/partials/custom-email-sender-admin-options.php:60
 msgid "Enter the sender email as you want it to appear when email are sent (Must be a valid email address)."
-msgstr "Inserisci l'indirizzo email del mittente come vuoi che appaia nelle email inviate (deve essere valido)."
+msgstr "Inserisci l'email del mittente come vuoi che appaia quando vengono inviate le email (Deve essere un indirizzo email valido)."
 
 #: admin/partials/custom-email-sender-admin-options.php:63
 msgid "Update Settings"
-msgstr "Aggiorna impostazioni"
+msgstr "Aggiorna Impostazioni"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/custom-email-sender/"
+msgstr "https://wordpress.org/plugins/custom-email-sender/"
+
+#. Description of the plugin/theme
+msgid "Change the default email address and sender name output for all message sent from your WP dashboard."
+msgstr "Modifica l'indirizzo email predefinito e il nome del mittente per tutti i messaggi inviati dalla tua dashboard WP."
+
+#. Author of the plugin/theme
+msgid "NeosLab"
+msgstr "NeosLab"
+
+#. Author URI of the plugin/theme
+msgid "https://neoslab.com"
+msgstr "https://neoslab.com"

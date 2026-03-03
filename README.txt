@@ -2,8 +2,8 @@
 Contributors: NeosLab
 Tags: sender name, wordpress sender name, wordpress sender email, sender email, wordpress default email sender
 Requires at least: 4.9
-Tested up to: 6.9.0
-Stable tag: 2.6.5
+Tested up to: 6.9.1
+Stable tag: 2.6.6
 License URI: https://raw.githubusercontent.com/neoslab/custom-email-sender/refs/heads/main/LICENSE
 
 Change the default email address and sender name output for all message sent from your WP dashboard.
@@ -23,6 +23,15 @@ Custom Email Sender allow you to easily customize the default email sender name 
 1. A general view of the plugin "options" page.
 
 == Changelog ==
+
+= 2.6.6 (2026-03-03) =
+* Fontawesome update
+* Updated ES translation
+* Updated FR translation
+* Updated ID translation
+* Updated IT translation
+* Updated PT translation
+* Code revision and optimization
 
 = 2.6.5 (2025-12-29) =
 * Code revision and optimization
