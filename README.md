@@ -29,6 +29,11 @@ Custom Email Sender allows you to easily customize the default email sender name
 
 ## Changelog
 
+### 2.6.7 (2026-06-02)
+
+- Fontawesome update
+- Code revision and optimization
+
 ### 2.6.6 (2026-03-03)
 
 - Fontawesome update
